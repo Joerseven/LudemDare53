@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 6ebcf25da3c5aae44ae199916ddf14f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moving Ani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83e83464c42df04aa53484ef8ce561e
+      internalID: -1236388178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 681
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf08174078bea459ac7dc1a672cb72
+      internalID: 1744369608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 681
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730bf9bb471ad474ba024b3ee9c05f98
+      internalID: -1315865946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 681
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025944591d9ba14439fd2dd027675715
+      internalID: -1682408284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0cdee250a3dd418299499f7d4d91c
+      internalID: -328785748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 454
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4792a6765670d4649ad7335d71b898b9
+      internalID: 1418999619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 454
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bea30e5b07e4e45b18f4fb199187fa
+      internalID: -1689217423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_7
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 454
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac3f5ac6bf102247b07f06a710d4b4f
+      internalID: 1362048128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3354444b737f545a9d8fd9844c25bc
+      internalID: 2123695239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 227
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f3af16f51753479990d69d23f5d00
+      internalID: 358776985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 227
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be18c215658fe4aad8ba3bf1d8458f
+      internalID: 1373812355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 227
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3580ae1c0806acb4baa0dcc006d749c0
+      internalID: 2939648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b511c305c694454cb9a0add22711c1b
+      internalID: 134767036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving Ani_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 501
+        height: 227
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398c2c87ebcafca428a0913c042ef10b
+      internalID: -1968133237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Moving Ani_0: -1236388178
+      Moving Ani_1: 1744369608
+      Moving Ani_10: 1373812355
+      Moving Ani_11: 2939648
+      Moving Ani_12: 134767036
+      Moving Ani_13: -1968133237
+      Moving Ani_2: -1315865946
+      Moving Ani_3: -1682408284
+      Moving Ani_4: -328785748
+      Moving Ani_5: 1418999619
+      Moving Ani_6: -1689217423
+      Moving Ani_7: 1362048128
+      Moving Ani_8: 2123695239
+      Moving Ani_9: 358776985
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
